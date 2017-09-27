@@ -27,6 +27,9 @@ public class WeirdShitGenerator
 
     public static void main(String[] args)
     {
+        
+        System.out.println("Testing Git");
+        
         createLists();
 
         _ui = new WeirdShitGeneratorUI();
