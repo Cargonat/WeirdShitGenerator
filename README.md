@@ -1,2 +1,2 @@
 # WeirdShitGenerator
-Implements Neverengine's [Weird Shit Generator (Fantasy)](https://www.drivethrurpg.com/product/190326/Weird-Shit-Generator-Fantasy) with a GUI
+Implements Neverengine's [Weird Shit Generator (Fantasy)](https://neverengine.wordpress.com/2016/08/11/weird-shit-generator-fantasy/) with a GUI
